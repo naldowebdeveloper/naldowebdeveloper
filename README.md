@@ -19,8 +19,5 @@ Meu nome é Ednaldo Brito, sou um apaixonado por tecnologia, em especial pelo de
 ### 📚 No que estou aperfeiçoando constantemente  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png" style="max-width: 100%;">)
-![typescript](https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png)
-![typescript](https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png)
-![typescript](https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
