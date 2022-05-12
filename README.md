@@ -2,11 +2,11 @@
 Meu nome é Ednaldo Brito, sou um apaixonado por tecnologia, em especial pelo desenvolvimento web.
 
 <a href="https://www.linkedin.com/in/ednaldobrito/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 102px;" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 86px;" />
 </a>
 
 <a href="mailto:web.ednaldo@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 80px;" />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 69px;" />
 </a>
 
 --- 
