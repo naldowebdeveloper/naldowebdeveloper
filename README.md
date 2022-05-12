@@ -17,7 +17,7 @@ Meu nome é Ednaldo Brito, sou um apaixonado por tecnologia, em especial pelo de
 - Aprender algo novo todos os dias.
 
 ### 📚 No que estou aperfeiçoando constantemente  
-![CSS3]<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" style="width: 80px;" />
+![CSS3](<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" style="width: 80px;" />)
 ![CSS3]<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 80px;" />
 ![CSS3]<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="width: 80px;" />
 ![CSS3]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="width: 80px;" /> <br />
