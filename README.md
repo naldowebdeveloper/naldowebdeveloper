@@ -6,7 +6,7 @@ Meu nome é Ednaldo Brito, sou um apaixonado por tecnologia, em especial pelo de
 </a>
 
 <a href="mailto:web.ednaldo@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 100px;" />
 </a>
 
 --- 
